@@ -16,15 +16,17 @@
 When banks require funds they approach Central Bank, if they are facing financial crunch. RBI lends funds to these commercial banks and other financial institutions by charging them a rate. This rate is called Repo Rate. In simple words, banks borrow money from Central Bank of India by selling their government securities with an agreement to repurchase the securities sold on a given date at a predetermined price and the rate of interest charged by RBI is known as Repo Rate. The current Repo Rate Charged by RBI is 6.50%
 
 ##### The below mentioned chart mentions 3 years repo rate as per monetary policy i.e. from year 2020 to year 2023 in India
-Dates	Repo Rates
-27th March 2020	4.40%
-22nd May 2020	4.00%
-4th May 2022	4.40%
-8th June 2022	4.90%
-8th August 2022	4.90%
-30th September 2022	5.90%
-7th December 2022	6.25%
-8th February 2023	6.50%
+
+| Dates | Repo Rates |
+| ----------- | ----------- |
+| 27th March 2020 | 4.40% |
+| 22nd May 2020 | 4.00% |
+| 4th May 2022 | 4.40% |
+| 8th June 2022 | 4.90% | 
+| 8th August 2022 |	4.90% |
+| 30th September 2022	| 5.90% |
+| 7th December 2022	| 6.25% |
+| 8th February 2023 | 6.50% |
 
 RBI has constantly tried to combat inflation through its rate hikes. RBI feels that increasing the cost of borrowing and making the new project fund raising expensive can control the spending to some extent. Developers and builders will be forced to raise the property prices which will impact the demand for housing and cost of home loans will also increase. Thus due to high prices demand will decrease gradually and people will postpone the purchasing plans which can ultimately pull down the demand thus controlling inflation.
 ## How is India Getting Impacted due to Rate Hike and Inflation?
