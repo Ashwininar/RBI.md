@@ -34,14 +34,19 @@ US Fed has also increased their rates in the recent year to curtail inflation as
 Thus RBI in India has raised Repo rates in India as the process of recovery and due to this interest rates of loans in India are also rising. Companies are borrowing funds to meet their working capital needs and it has increased the borrowing cost.
 #### RBI Repo Rate Hikes has following Impact 
 - Impact on Economic Growth 
+
 Continuous Rate Hike can have a negative impact on the economic growth even though these measures are essential to tackle inflation. Expensive goods and services can sometimes decrease demand and in turn it can be a slow growth.
 - Impact on Loans and EMI’s
+
 As bank raise their interest rates it becomes difficult for paying EMI’s which can affect those who are planning to purchase home. The RBI rate hike affects all types of loans such as mortgage loan, vehicle loan, student loan, personal loan, business loan, credit cards.  Borrowing from commercial banks thus becomes very expensive.
 - Impact on Consumer Spending
+
 When the rates hike people are discouraged from making large purchases.  This messes up the supply and demand chain in the market. 
 - Reverse Repo Rate 
+
 When Reserve Bank of India faces financial difficulties or cash crunch, commercial banks and other financial institutions deposit their excess amount as deposit with RBI treasury and in return they receive interest rates. 
 - Marginal Standing Facility Rate (MSF) 
+
 It is a situation when banks face extreme cash crunch, they approach RBI for this facility.  Banks can borrow from RBI against their approved government securities.  MSF rate is always higher than Repo Rate.
 - Bank Rate 
 Bank Rate is the rate of interest charged by RBI against the loans which they offer to Commercial Banks. Bank rate is higher than Repo Rate.  When banks pay high interest rates to the RBI, they in return charge higher interest rates to the consumers. Banks Rates is an important tool used by RBI to control liquidity through their monetary policy.
