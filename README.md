@@ -12,9 +12,10 @@
 - Base Rate
 - Marginal Cost of Funds Based Lending Rate (MCLR)
   
-a. Repo Rates 
+## Repo Rates 
 When banks require funds they approach Central Bank, if they are facing financial crunch. RBI lends funds to these commercial banks and other financial institutions by charging them a rate. This rate is called Repo Rate. In simple words, banks borrow money from Central Bank of India by selling their government securities with an agreement to repurchase the securities sold on a given date at a predetermined price and the rate of interest charged by RBI is known as Repo Rate. The current Repo Rate Charged by RBI is 6.50%
-The below mentioned chart mentions 3 years repo rate as per monetary policy i.e. from year 2020 to year 2023 in India
+
+##### The below mentioned chart mentions 3 years repo rate as per monetary policy i.e. from year 2020 to year 2023 in India
 Dates	Repo Rates
 27th March 2020	4.40%
 22nd May 2020	4.00%
@@ -24,7 +25,8 @@ Dates	Repo Rates
 30th September 2022	5.90%
 7th December 2022	6.25%
 8th February 2023	6.50%
-RBI has constantly tried to combat inflation through its rate hikes. RBI feels that increasing the cost of borrowing and making the new project fund raising expensive can control the spending to some extent. Developers and builders will be forced to raise the property prices which will impact the demand for housing and cost of home loans will also increase. Thus due to high prices demand will decrease gradually and people will postpone the purchasing plans which can ultimately pull down the demand thus controlling inflation.
+
+### RBI has constantly tried to combat inflation through its rate hikes. RBI feels that increasing the cost of borrowing and making the new project fund raising expensive can control the spending to some extent. Developers and builders will be forced to raise the property prices which will impact the demand for housing and cost of home loans will also increase. Thus due to high prices demand will decrease gradually and people will postpone the purchasing plans which can ultimately pull down the demand thus controlling inflation.
 How is India Getting Impacted due to Rate Hike and Inflation?
 India has been witnessing sharp rise in the inflation due to spike in crude oil prices in the international market and increase in the commodity prices due to war between Russia and Ukraine. The Consumer Price Index (CPI) has been rising since September 2022 and remained above the tolerance band for Reserve Bank of India. Crude Oil prices were the biggest contributors for inflation in India. As India imports 80% of the crude oil , prices for raw materials, production and transportation also faced price rise. 
 The second major reason that contributed to inflation is Food Inflation. It also plays a very essential role in CPI inflation index.  The third factor that effected India is Russia Ukraine War which led to rise in price of not only crude oil but also disrupted to   global economic supply chain.  The fourth most important factor that contributed to India’s rising inflation is Covid 19 pandemic, due to which there is a global economic slowdown.  Also the US Inflation has increased the cost of labour in US Economy. There has been a massive layoff by US Companies which has effected jobs of many and these includes Indians too.
