@@ -33,33 +33,33 @@ RBI has constantly tried to combat inflation through its rate hikes. RBI feels t
 - US Fed has also increased their rates in the recent year to curtail inflation as they want to control the money in circulation.  Higher Interest rates forces people to control their expenditures.  The rise of rates in US might attract the investors to park their money in US. Thus RBI will also raise the rate of interest and restrict the money circulation. Thus rupee becomes more expensive thus landing exporters and importers in Trouble.
 - Thus RBI in India has raised Repo rates in India as the process of recovery and due to this interest rates of loans in India are also rising. Companies are borrowing funds to meet their working capital needs and it has increased the borrowing cost.
 #### RBI Repo Rate Hikes has following Impact 
-- *Impact on Economic Growth* 
+- **Impact on Economic Growth** 
 
 Continuous Rate Hike can have a negative impact on the economic growth even though these measures are essential to tackle inflation. Expensive goods and services can sometimes decrease demand and in turn it can be a slow growth.
-- *Impact on Loans and EMI’s
+- **Impact on Loans and EMI’s**
 
 As bank raise their interest rates it becomes difficult for paying EMI’s which can affect those who are planning to purchase home. The RBI rate hike affects all types of loans such as mortgage loan, vehicle loan, student loan, personal loan, business loan, credit cards.  Borrowing from commercial banks thus becomes very expensive.
-- Impact on Consumer Spending
+- **Impact on Consumer Spending**
 
 When the rates hike people are discouraged from making large purchases.  This messes up the supply and demand chain in the market. 
-- Reverse Repo Rate 
+- **Reverse Repo Rate** 
 
 When Reserve Bank of India faces financial difficulties or cash crunch, commercial banks and other financial institutions deposit their excess amount as deposit with RBI treasury and in return they receive interest rates. 
-- Marginal Standing Facility Rate (MSF) 
+- **Marginal Standing Facility Rate (MSF)** 
 
 It is a situation when banks face extreme cash crunch, they approach RBI for this facility.  Banks can borrow from RBI against their approved government securities.  MSF rate is always higher than Repo Rate.
-- Bank Rate 
+- **Bank Rate** 
 
 Bank Rate is the rate of interest charged by RBI against the loans which they offer to Commercial Banks. Bank rate is higher than Repo Rate.  When banks pay high interest rates to the RBI, they in return charge higher interest rates to the consumers. Banks Rates is an important tool used by RBI to control liquidity through their monetary policy.
-- Cash Reserve Ratio
+- **Cash Reserve Ratio**
 
 Banks are required to maintain certain percentage of their deposits as liquid cash with RBI . The percentage of cash kept aside by the Banks with the Reserve Bank of India is known as Cash Reserve Ratio. 
-- Statutory Liquidity Ratio
+- **Statutory Liquidity Ratio**
 
 At the end of every business hours banks have to maintain a minimum ratio of their Time Liabilities and Net Demands in the form of liquid assets like gold, cash and government securities it is called Statutory Liquidity Ratio.  The maximum SLR that RBI can set is 40% p.a.
-- Base Rate 
+- **Base Rate** 
 
 The Reserve Bank of India sets a minimum rate criteria below which Banks in India are not allowed to lend to their customers.
-- Marginal Cost of Funds based  Lending Rate 
+- **Marginal Cost of Funds based  Lending Rate** 
 
 RBI introduced a new rate system known as Marginal Cost of Funds Based Lending Rate (MCLR) which is a new method to set lending rates for commercial banks. Banks used to earlier follow Base rates for lending purpose but now they follow MCLR.  Banks raise their funds through deposits, bonds.  For banks to function they involve costs like salaries, rents, and other bills. Banks also need to make profits every year.
