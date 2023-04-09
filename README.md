@@ -5,6 +5,8 @@
 
 *This is Italic*
 
--abcd
--12345
--@#$%^&
+- abcd
+- 12345
+- @#$%^&
+1. This is India
+2. This is Japan
