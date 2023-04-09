@@ -4,3 +4,7 @@
 **This is bold text**
 
 *This is Italic*
+
+-abcd
+-12345
+-@#$%^&
