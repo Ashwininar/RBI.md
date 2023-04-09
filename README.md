@@ -49,12 +49,17 @@ When Reserve Bank of India faces financial difficulties or cash crunch, commerci
 
 It is a situation when banks face extreme cash crunch, they approach RBI for this facility.  Banks can borrow from RBI against their approved government securities.  MSF rate is always higher than Repo Rate.
 - Bank Rate 
+
 Bank Rate is the rate of interest charged by RBI against the loans which they offer to Commercial Banks. Bank rate is higher than Repo Rate.  When banks pay high interest rates to the RBI, they in return charge higher interest rates to the consumers. Banks Rates is an important tool used by RBI to control liquidity through their monetary policy.
 - Cash Reserve Ratio
+
 Banks are required to maintain certain percentage of their deposits as liquid cash with RBI . The percentage of cash kept aside by the Banks with the Reserve Bank of India is known as Cash Reserve Ratio. 
 - Statutory Liquidity Ratio
+
 At the end of every business hours banks have to maintain a minimum ratio of their Time Liabilities and Net Demands in the form of liquid assets like gold, cash and government securities it is called Statutory Liquidity Ratio.  The maximum SLR that RBI can set is 40% p.a.
 - Base Rate 
+
 The Reserve Bank of India sets a minimum rate criteria below which Banks in India are not allowed to lend to their customers.
 - Marginal Cost of Funds based  Lending Rate 
+
 RBI introduced a new rate system known as Marginal Cost of Funds Based Lending Rate (MCLR) which is a new method to set lending rates for commercial banks. Banks used to earlier follow Base rates for lending purpose but now they follow MCLR.  Banks raise their funds through deposits, bonds.  For banks to function they involve costs like salaries, rents, and other bills. Banks also need to make profits every year.
