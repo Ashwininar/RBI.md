@@ -75,6 +75,6 @@ The Reserve Bank of India sets a minimum rate criteria below which Banks in Indi
 Central Banks play a major role in setting benchmark interest rates for economic growth and stability. Lower Rates and Higher Rates both have an impact on the economy. At the end RBI or Central Bank aims to have a control over the money supply through these interest rates in the economy.
 RBI introduced a new rate system known as Marginal Cost of Funds Based Lending Rate (MCLR) which is a new method to set lending rates for commercial banks. Banks used to earlier follow Base rates for lending purpose but now they follow MCLR.  Banks raise their funds through deposits, bonds.  For banks to function they involve costs like salaries, rents, and other bills. Banks also need to make profits every year.
 
-|--------|
+--------
 Author : Ashwini
 Date : 09/04/2023
